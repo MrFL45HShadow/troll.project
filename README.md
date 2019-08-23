@@ -1,6 +1,6 @@
 #!/bin/bash
 #Boom spam SMS dan Call
-#.  By : Mr.FL45H SHADOW
+#Mr.FL45H SHADOW
 #PERINGATAN : KESALAHAN ATAU KEJAHATAN ADALAH TANGGUNG JAWAB DARI PEMAKAI
 #GUNAKAN TOOLS UNTUK KEBAIKAN JANGAN DISALAH GUNAKAN :)
 troll(){
@@ -53,7 +53,7 @@ troll(){
     echo " ============================="
     sleep 2
     echo " ==      Troll Project      =="
-    echo " ==   By: Mr.FL45H SHADOW   =="
+    echo " ==     Mr.FL45H SHADOW     =="
     sleep 0.7
     echo " ============================="
 }
