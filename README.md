@@ -1,6 +1,9 @@
 #!/bin/bash
-#Boom spam SMS dan Call
-#Mr.FL45H SHADOW
+#///////////////////////////////////////////////////////////////////////////////
+#///////////////////////////////////////////////////////////////////////////////
+#////                           MR.FL45H SHADOW                             ////                      ////
+#///////////////////////////////////////////////////////////////////////////////
+#///////////////////////////////////////////////////////////////////////////////
 #PERINGATAN : KESALAHAN ATAU KEJAHATAN ADALAH TANGGUNG JAWAB DARI PEMAKAI
 #GUNAKAN TOOLS UNTUK KEBAIKAN JANGAN DISALAH GUNAKAN :)
 troll(){
@@ -52,8 +55,7 @@ troll(){
     sleep 0.03
     echo " ============================="
     sleep 2
-    echo " ==      Troll Project      =="
-    echo " ==     Mr.FL45H SHADOW     =="
+    echo " ==  Troll Project MR.FL45  =="
     sleep 0.7
     echo " ============================="
 }
@@ -98,7 +100,7 @@ spam(){
             #function spam
             echo
             echo "Silahkan masukan nomor telp target"
-            echo contoh 0812××××××××
+            echo contoh 0812345678
             read target # masukin no telp
             echo
             echo "Berapa sms yang mau dikirim?"
@@ -119,9 +121,8 @@ spam(){
                     CURL_RESPONSE=`curl -s -o /dev/null -w "%{http_code}" $target_do`
                     echo " Gunakan tools dengan bijak"
                     echo
-                    echo " Love u zeyenk "
-                    echo " Mr.FL45H SHADOW "
-                    echo " TERIMA KASIH "
+                    echo " Love u always "
+                    echo " -MR.FL45H "
                     echo "======================================="
             else
                     echo "Kesalahan"
@@ -132,18 +133,18 @@ spam(){
             #function spam
             echo
             echo "Silahkan masukan nomor telp target"
-            echo contoh 0812××××××××
+            echo contoh 0812345678
             read target # masukin no telp
             echo
-            echo "Gunakan API Grab/TELKOMSEL?"
+            echo "Gunakan API Grab/Toped?"
             echo "[1] GRAB"
-            echo "[2] TELKOMSEL"
+            echo "[2] TOPED"
             echo "1/2?"
             read api
             if [ $api = "1" ]; then
                   api_spam="grab"
             else
-                  api_spam="telkomsel"
+                  api_spam="toped"
             fi
             echo Apakah nomor $target dan spam menggunakan $api_spam "sudah benar?"
             echo y/n?
@@ -160,9 +161,8 @@ spam(){
                   echo -e $cek_target
                   echo " Gunakan tools dengan bijak"
                   echo
-                  echo " Love u zeyenk "
-                  echo " Mr.FL45H SHADOW "
-                  echo " TERIMA KASIH "
+                  echo " Love u always "
+                  echo " -MR.FL45H "
                   echo "========================================"
             else
                   echo Kesalahan, silahkan coba lagi
